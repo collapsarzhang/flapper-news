@@ -12,7 +12,7 @@ require('./models/Comments');
 require('./models/Users');
 require('./config/passport');
 
-mongoose.connect('mongodb://localhost/news');
+mongoose.connect('mongodb://news:news@ds031852.mongolab.com:31852/news');
 
 
 
