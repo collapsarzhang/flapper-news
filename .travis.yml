@@ -7,6 +7,6 @@ deploy:
   provider: heroku
   api_key:
     secure: a5mooAt4dzfxfNvzhB3RuRIWnF+r9Yke+GGaY6G08kuRuc+XO/2oLwPOBBgaJfg0spEzZBeTQHyuMZvqlINNxKzIVO3YoJycPFUBvZORuCaboNaL5um/rl/H71PoHTCmY/joWOiy5/geUE5agHujMT1oZkbClbxG51nzD0I4qsW6YEnive/zBGkpIOMhu1ePpoFZlixG1ky2tUlpfnEQTmBlI9T+wBTEpngP29/pLQF7U6p6BfLz8I3JWYOPIL5r/F/r/hEB05G5LBQY7HQzVxXhd7mX22FgmE5WrATEOBDwV0WraVmNlzN7tze5iMfZ2+cLBXkC/yJU3F5m4pThL/90Uhs73j/VNtsg0sCnTxmW34h41j7RS/e2wrlIJJlKE3FVNyBKOQBvR6Ca/QI0xKmfGdu5E0Bn1Zh4HAdpNI4tFnI5UJ95byOY95lg/45pubQ2AIwNTBi1VWoD8k+ENU2jJaM1DS770rsl0OfeDjfg555jEpqf6X6phfP2rtCN+988onS2OEpwvwvWQVTwV5gKAUrlqFAu0xqrjnVK2FEu+HRDD2IYGLm7EogOQbuEnnN9BRL8JH03RFMOVbKbWM9f5EzC08CvkB0R5nPk38Rm2oG4sIsRgKrDHBcxkoHar1YIpTqWsxswfNvTq/zzsZevi8WKyX1PoYwS7UDKFoE=
-  app: flapper-news
+  app: flapper-news-travis
   on:
     repo: collapsarzhang/flapper-news
